@@ -1,0 +1,10 @@
+[DB 서버]
+MongoDB
+	165.243.187.147:8089
+	korean44
+MySQL
+	165.243.187.147:3306
+	korean44
+	(test, db_aqua)
+	
+	 
